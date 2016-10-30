@@ -6,6 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>cxfserver</name>
+	
 	<repositories>
 		<repository>
 			<id>nexus_public</id>
